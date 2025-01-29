@@ -2,7 +2,7 @@
 
 ## Results
 
-Trained models like ResNet-34, VGG-16D and ResNet-50 for Image classification
+Trained models like ResNet-34, VGG-16D and ResNet-50 for Image classification using various image datasets like CIFAR.
 
 Optimization of 50% and an Accuracy of 70% was achieved while implementing Sparse Network
 
